@@ -23,4 +23,4 @@ $1000 Monthly <br>
 Just message me if you are interested and have the money to buy, I will show the tool working to real buyers.<br>
 <br>
 telegram: @angelofdeathdev<br>
-power group: @powerandroispy
+power group: @powerandroidpy
