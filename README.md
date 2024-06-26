@@ -1,5 +1,5 @@
 # powerandroidspy
-![alt text]([http://url/to/img.png](https://i.postimg.cc/K8b1KMkc/image.png))
+![alt text]([https://i.postimg.cc/K8b1KMkc/image.png])
 
 Power Android Spy<br>
 Functions:<br>
