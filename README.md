@@ -1,5 +1,5 @@
 # powerandroidspy
-![alt text]([https://i.postimg.cc/K8b1KMkc/image.png])
+<img src="https://i.postimg.cc/K8b1KMkc/image.png" width="100%"/>
 
 Power Android Spy<br>
 Functions:<br>
